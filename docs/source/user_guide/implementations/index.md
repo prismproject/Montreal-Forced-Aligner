@@ -15,4 +15,5 @@ alignment_analysis
 alignment_evaluation
 fine_tune
 phone_models
+blender_lipsync
 ```
